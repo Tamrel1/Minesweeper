@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(315,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(333,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(333,79): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(338,50): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(338,43): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         and
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:             T=int
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,106): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         and
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:             T=int
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(379,77): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,103): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,103): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,103): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,103): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,103): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,74): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,74): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,74): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(380,74): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(468,48): warning C4244: "argument": konwersja z "const T" do "unsigned int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(468,48): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(468,48): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(468,48): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(468,48): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(472,47): warning C4244: "argument": konwersja z "const T" do "unsigned int", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(472,47): warning C4244:         with
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(472,47): warning C4244:         [
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(472,47): warning C4244:             T=float
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(472,47): warning C4244:         ]
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(481,32): warning C4244: "inicjowanie": konwersja z "float" do "sf::Int64", możliwa utrata danych
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(328,9): warning C4101: "I_W": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(329,9): warning C4101: "I_H": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\main\main.cpp(293,1): warning C4715: "GameOver”: niewszystkie ścieżki kodu zwracają wartość
+  main.vcxproj -> C:\Users\Szymon\Desktop\StaryUSB\mspgit\mineswepeer-git\SFML\x64\Debug\main.exe
